@@ -1,0 +1,25 @@
+{
+  "name": "sextadoscria",
+  "version": "1.0.0",
+  "description": "SEXTA DOS CRIA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webismymain/sextadoscria.git"
+  },
+  "keywords": [
+    "sextadoscria"
+  ],
+  "author": "Felipe Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webismymain/sextadoscria/issues"
+  },
+  "homepage": "https://github.com/webismymain/sextadoscria#readme",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
