@@ -1,4 +1,4 @@
-# DaleDale Command Line Sound
+# SextaDosCria Command Line Sound
 
 <div style="text-align: center">
     <img src="./sexta.png" height="300"/>
